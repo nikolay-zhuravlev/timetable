@@ -1,4 +1,4 @@
-# my-third-app
+# timetable
 
 ## Project setup
 ```
